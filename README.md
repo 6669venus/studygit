@@ -1,12 +1,11 @@
 # studygit
 
 ## working with branch
-* git fetch
-* git checkout -t -b new_branch_name_to_create origin/remote_branch_name
-
+* get branch from remote
 ```
 git fetch
 git checkout -t -b new_branch_name_to_create origin/remote_branch_name
 ```
+* push local to remote branch
 
 
