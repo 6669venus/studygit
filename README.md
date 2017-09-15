@@ -2,6 +2,6 @@
 
 ## working with branch
 * git fetch
-- git branch -a
+* git checkout -t -b new_branch_name_to_create origin/remote_branch_name
 
 
