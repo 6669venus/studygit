@@ -1,4 +1,4 @@
-# studygit
+# initializer
 
 ## working with branch
 * get branch from remote
